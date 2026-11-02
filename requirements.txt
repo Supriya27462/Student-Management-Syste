@@ -1,0 +1,12 @@
+Student Management System - Requirements
+
+Language standard: C99
+Compiler: GCC, Clang, or MinGW (any C99-compatible compiler)
+External libraries: None
+Operating system: Windows, Linux, or macOS with a C compiler
+
+Compile example:
+gcc -std=c99 -Wall -Wextra -pedantic student_management.c -o student_management
+
+Runtime data file:
+students.dat (created automatically in the program's working directory)
